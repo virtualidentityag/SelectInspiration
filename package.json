@@ -1,0 +1,8 @@
+{
+  "name": "SelectInspiration",
+  "version": "1.0.0",
+  "main": "js/classie.js",
+  "repository": "https://github.com/codrops/SelectInspiration.git",
+  "author": "botelho",
+  "license": "MIT"
+}
